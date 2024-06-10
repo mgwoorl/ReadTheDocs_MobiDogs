@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'MobileDogs'
-copyright = '2024, Kate Konova'
-author = 'Kate'
+copyright = '2024, Galiulina Oksana'
+author = 'Galiulina Oksana'
 
 release = '0.1'
 version = '0.1.0'
